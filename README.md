@@ -5,7 +5,7 @@
 
 需要添加以下依赖库:
 
-![依赖库]()
+![依赖库](https://github.com/xiaohange/IJKMediaFramework/blob/master/%E4%BE%9D%E8%B5%96%E5%BA%93.png?raw=true)
 
 
 ## IJKMediaFramework
